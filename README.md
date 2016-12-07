@@ -3,7 +3,6 @@
 The Workshop is separated in three sections:
 
 * [Docker Basics](doc/00-docker-basics)
-* [Docker Machine](doc/01-docker-machine)
 * [Docker Compose](doc/02-docker-compose)
 
 ### Preparations:
